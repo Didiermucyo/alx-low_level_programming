@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * main - return alphabets except e and q
+ * main - return alphabets expect e and q
  *
- * description: print the required result
+ * Description: print the required results
  *
- * return: 0
+ * Return: integer value 0
  *
  */
 int main(void)
