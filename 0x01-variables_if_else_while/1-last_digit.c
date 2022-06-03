@@ -14,12 +14,12 @@
 int main(void)
 {
 	int n;
-
 	int last_digit;
 
 	srand(time(0));
-	last_digit = rand() - RAND_MAX / 10;
+	n = rand() - RAND_MAX / 2;
 	/* assign the random number */
+	last_digit = n % 10;
 	if (last_digit > 5)
 	{
 		printf("%d and is greater than 5\n", last_digit);
