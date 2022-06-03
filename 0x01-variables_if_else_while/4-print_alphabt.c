@@ -5,7 +5,7 @@
  *
  * description: print the required result
  *
- * Retun : integer value 0
+ * Return : integer value 0
  *
  */
 int main(void)
