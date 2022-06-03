@@ -1,16 +1,15 @@
 #include <stdlib.h>
 #include <time.h>
-/**
- * more header
- * betty style doc for function
- */
+/* more headers goes there */
 #include <stdio.h>
+/* betty style doc for function main goes there */
 /**
  * main - used to check the condition
  *
  * Description: return the result of the function
  *
- * return 0
+ * Return: 0
+ *
  */
 int main(void)
 {	int n;
